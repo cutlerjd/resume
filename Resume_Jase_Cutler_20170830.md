@@ -22,11 +22,11 @@
 ## Education
 * The Iron Yard, Las Vegas, NV  
   * Certificate in Full Stack Development - Three month immersion course
-    * o	Worked 60+ hours a week developing web apps and back-ends focusing on JavaScript
-    * o	Constructed Express back-ends utilizing RESTful APIs, MySQL and authentication
-    * o	Built single page applications with React utilizing outside API's for data and form inputs and web components for navigation
-    * o	Developed skills in teaching others how to understand coding and working on teams
-    * o	Utilized software repositories (GitHub) to track and save changes on projects
+    * Worked 60+ hours a week developing web apps and back-ends focusing on JavaScript
+    * Constructed Express back-ends utilizing RESTful APIs, MySQL and authentication
+    * Built single page applications with React utilizing outside API's for data and form inputs and web components for navigation
+    * Developed skills in teaching others how to understand coding and working on teams
+    * Utilized software repositories (GitHub) to track and save changes on projects
 * Utah Valley University
   * •	Bachelors in Information Systems
     * Related course work:
