@@ -30,7 +30,7 @@
 * Utah Valley University
   * •	Bachelors in Information Systems
     * Related course work:
-      * ♣	Intro to System Administration Linux & Computer Programming (INFO 1200, 2200, 1510)
+      * Intro to System Administration Linux & Computer Programming (INFO 1200, 2200, 1510)
 ## Experience
 * UNLV - IT Operations Analyst - 05/2015 - 07/2017
    * Developed interactive dashboards to provide metrics and troubleshooting for the 2016 Presidential debates. Pulled in Twitter analytics to provide real-time reports during the debates for the UNLV Communications department, as well as syslog and security dashboards for IT technicians managing the debate floor.
