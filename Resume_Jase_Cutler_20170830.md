@@ -1,7 +1,6 @@
 # Jase Cutler
 > jasecutler@gmail.com  
 > 801-616-2422  
-> 10146 Campo Tizzoro Ave, Las Vegas, NV 89147  
 > http://github.com/cutlerjd  
 
 ## Skills
