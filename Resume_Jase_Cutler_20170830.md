@@ -41,5 +41,5 @@
   * Developed a new wiki for procedures done by technicians across the national company.
   * Worked with many other techs to set up multiple new offices, including racking and setting up network equipment and workstations for hundreds of employees.
 * Utah Valley University - Support Technician II - 05/2013 - 05/2014
-  * •	Removed hours of setup time needed for each computer by improving the process of imaging lab computers.
+  * Removed hours of setup time needed for each computer by improving the process of imaging lab computers.
   * Developed reporting system using SCCM and SQL to show what software was available in each lab to aid in scheduling of classes.
